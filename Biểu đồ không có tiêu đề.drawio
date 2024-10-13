@@ -58,6 +58,21 @@
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-5" value="3. Quản lý hộ gia đình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-960" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-6" value="4. Xây dựng phần mềm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-960" width="160" height="80" as="geometry" />
         </mxCell>
@@ -97,14 +112,20 @@
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-30" value="3.2. Cập nhật thông tin nhân khẩu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-720" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PSWpvI4_wwGTHwIrhQuK-34" value="3.1. Thêm hộ gia đình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-34" value="4.1. Phân tích yêu cầu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-840" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PSWpvI4_wwGTHwIrhQuK-35" value="3.1. Thêm hộ gia đình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-35" value="4.3. Thiết kế dữ liệu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-600" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PSWpvI4_wwGTHwIrhQuK-36" value="3.1. Thêm hộ gia đình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-36" value="4.2. Thiết kế giao diện" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-720" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-40" value="4.4. Lập trình" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-41" value="4.5. Kiểm thử" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-360" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
