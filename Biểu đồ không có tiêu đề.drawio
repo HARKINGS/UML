@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1876" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-1" target="PSWpvI4_wwGTHwIrhQuK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-1" target="PSWpvI4_wwGTHwIrhQuK-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 32px; background-color: initial;&quot;&gt;Phần mềm quản lý và thu phí ở chung cư Blue Moon&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -73,6 +76,9 @@
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="PSWpvI4_wwGTHwIrhQuK-6" target="PSWpvI4_wwGTHwIrhQuK-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-6" value="4. Xây dựng phần mềm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-960" width="160" height="80" as="geometry" />
         </mxCell>
@@ -126,6 +132,12 @@
         </mxCell>
         <mxCell id="PSWpvI4_wwGTHwIrhQuK-41" value="4.5. Kiểm thử" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-44" value="4.6. Triển khai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PSWpvI4_wwGTHwIrhQuK-46" value="6. Chăm sóc, hỗ trợ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-960" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
