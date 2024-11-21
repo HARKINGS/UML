@@ -177,6 +177,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qwp_WOEQlL5NrjCQHLM8-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="qwp_WOEQlL5NrjCQHLM8-53" target="qwp_WOEQlL5NrjCQHLM8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qwp_WOEQlL5NrjCQHLM8-57" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Buy&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qwp_WOEQlL5NrjCQHLM8-56">
+          <mxGeometry x="0.0022" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qwp_WOEQlL5NrjCQHLM8-53" value="Order Food" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="707" y="300" width="120" height="80" as="geometry" />
         </mxCell>
