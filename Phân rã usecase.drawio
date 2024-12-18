@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Trang-1" id="zRRDC0jtDYadoKaqRwP1">
-    <mxGraphModel dx="1615" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="538" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -601,7 +601,7 @@
         <mxCell id="1PbNTR2RCR1_KU1u348G-329" value="Quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="1PbNTR2RCR1_KU1u348G-327">
           <mxGeometry x="75" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1PbNTR2RCR1_KU1u348G-330" value="Xoá khoản thu băt buộc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1PbNTR2RCR1_KU1u348G-327">
+        <mxCell id="1PbNTR2RCR1_KU1u348G-330" value="Xoá khoản thu bắt buộc" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1PbNTR2RCR1_KU1u348G-327">
           <mxGeometry x="355" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1PbNTR2RCR1_KU1u348G-331" value="" style="group" vertex="1" connectable="0" parent="1PbNTR2RCR1_KU1u348G-327">
