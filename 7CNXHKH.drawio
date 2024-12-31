@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1480" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,43 +97,43 @@
         <mxCell id="TTsagFuzITH8P4V_9XAO-19" value="Chức năng giáo dục, nuôi dưỡng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="800" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-20" target="PiGG_oShRd3_gKlLi4_5-17">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-20" target="PiGG_oShRd3_gKlLi4_5-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-20" target="PiGG_oShRd3_gKlLi4_5-18">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-20" target="PiGG_oShRd3_gKlLi4_5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTsagFuzITH8P4V_9XAO-20" value="Chức năng VH, CTRi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="710" y="2130" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-5" value="Đơn vị tham gia trực tiếp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="PiGG_oShRd3_gKlLi4_5-4">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-5" value="Đơn vị tham gia trực tiếp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="PiGG_oShRd3_gKlLi4_5-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0789" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-2">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-7" value="Đơn vị tổ chức tiêu dùng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="PiGG_oShRd3_gKlLi4_5-6">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-7" value="Đơn vị tổ chức tiêu dùng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="PiGG_oShRd3_gKlLi4_5-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0494" y="2" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-8">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-10" value="Thay đổi về chức năng KT của gđ phụ thuộc sự ptr của XH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="PiGG_oShRd3_gKlLi4_5-9">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-10" value="Thay đổi về chức năng KT của gđ phụ thuộc sự ptr của XH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="PiGG_oShRd3_gKlLi4_5-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0869" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-11">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-21" target="PiGG_oShRd3_gKlLi4_5-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-13" value="Vai trò của gđ khi thực hiện tốt chức năng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="PiGG_oShRd3_gKlLi4_5-12">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-13" value="Vai trò của gđ khi thực hiện tốt chức năng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="PiGG_oShRd3_gKlLi4_5-12" vertex="1" connectable="0">
           <mxGeometry x="-0.0489" y="-7" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -141,7 +141,7 @@
         <mxCell id="TTsagFuzITH8P4V_9XAO-21" value="Chức năng KT, tổ chức tiêu dùng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="660" y="1060" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-22" target="PiGG_oShRd3_gKlLi4_5-14">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-22" target="PiGG_oShRd3_gKlLi4_5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TTsagFuzITH8P4V_9XAO-22" value="Chức năng thoả mãn nhu cầu tâm lý, tình cảm gđ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
@@ -162,29 +162,95 @@
         <mxCell id="TTsagFuzITH8P4V_9XAO-47" value="- Giáo dục con cái đúng đắn, để con ptr toàn diện, việc này đòi hỏi bậc làm cha, làm mẹ phải có kiến thức căn bản, tương đối toàn diện về mọi mặt, VH, học vấn, đặc biệt là cách dạy, cách giáo dục" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1320" y="900" width="1060" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-1" value="- Gđ tham gia trực tiếp vào QTSX, tái sản xuất TLSX, TL tiêu dùng, sức LĐ&lt;div&gt;- Đặc thù của gđ mà các đơn vị kinh tế khác không có được, đó là chỗ ở&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-1" value="- Gđ tham gia trực tiếp vào QTSX, tái sản xuất TLSX, TL tiêu dùng, sức LĐ&lt;div&gt;- Đặc thù của gđ mà các đơn vị kinh tế khác không có được, đó là chỗ ở&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1020" width="1060" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-2" value="- Gđ là 1 đơn vị tiêu dùng hàng hoá trong XH&lt;div&gt;- (tiêu dùng để làm gì) Gđ thực hiện chức năng tổ chức tiêu dùng để duy trì đời sống gđ trong LĐSX, Sinh hoạt gđ&lt;/div&gt;&lt;div&gt;- (tiêu dùng tốt thì sao) Thực hiện chức năng này một cách hợp lý, giúp duy trì, phát triển đời sống vật chất và tinh thần, sức khoẻ, đảm bảo được sở thích, bản sắc riêng cho từng thành viên trong gia đình&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-2" value="- Gđ là 1 đơn vị tiêu dùng hàng hoá trong XH&lt;div&gt;- (tiêu dùng để làm gì) Gđ thực hiện chức năng tổ chức tiêu dùng để duy trì đời sống gđ trong LĐSX, Sinh hoạt gđ&lt;/div&gt;&lt;div&gt;- (tiêu dùng tốt thì sao) Thực hiện chức năng này một cách hợp lý, giúp duy trì, phát triển đời sống vật chất và tinh thần, sức khoẻ, đảm bảo được sở thích, bản sắc riêng cho từng thành viên trong gia đình&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1130" width="1060" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-8" value="- Với sự phát triển của XH, các hình thức gđ khác nhau, thậm chí cùng một hệ thống gia đình, tuỳ từng giai đoạn lại có sự thay đổi ở&amp;nbsp; chức năng KT, về quy mô sản xuất, sở hữu TLSX, cách thức tổ chức SX, phân phối &lt;i&gt;(mức độ, trữ lượng, tổ chức, bán buôn)&lt;/i&gt;&lt;div&gt;&lt;i&gt;-&lt;/i&gt;&amp;nbsp;Vị trí, vai trò, mối quan hệ của KT gđ với các đơn vị KT khác nhau cũng sẽ không hoàn toàn giống nhau&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-8" value="- Với sự phát triển của XH, các hình thức gđ khác nhau, thậm chí cùng một hệ thống gia đình, tuỳ từng giai đoạn lại có sự thay đổi ở&amp;nbsp; chức năng KT, về quy mô sản xuất, sở hữu TLSX, cách thức tổ chức SX, phân phối &lt;i&gt;(mức độ, trữ lượng, tổ chức, bán buôn)&lt;/i&gt;&lt;div&gt;&lt;i&gt;-&lt;/i&gt;&amp;nbsp;Vị trí, vai trò, mối quan hệ của KT gđ với các đơn vị KT khác nhau cũng sẽ không hoàn toàn giống nhau&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1280" width="1060" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-11" value="- (Gia đình) Thực hiện tốt chức năng, giúp cho gia đình có được một môi trường sống ổn định, lạnh mạnh, phù hợp để phát triển và nuôi dạy con cái, bồi đăp tình cảm cho gia đình. Đảm bảo được đời sống vật chất, tinh thần và sức khoẻ cho từng thành viên trong gia đình&lt;div&gt;- (XH) Không chỉ giúp cho gia đình, việc thực hiện tốt chức năng KT và tổ chức tiêu dùng cũng đem lại lợi ích to lớn cho XH, gđ trực tiếp tham gia QTSX, tái sản xuất TLSX, TL tiêu dùng giúp cho kinh tế XH tăng trưởng, kinh tế lưu thông, gia đình cũng đóng góp sức LĐ cho XH, giúp cho XH ptr&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-11" value="- (Gia đình) Thực hiện tốt chức năng, giúp cho gia đình có được một môi trường sống ổn định, lạnh mạnh, phù hợp để phát triển và nuôi dạy con cái, bồi đăp tình cảm cho gia đình. Đảm bảo được đời sống vật chất, tinh thần và sức khoẻ cho từng thành viên trong gia đình&lt;div&gt;- (XH) Không chỉ giúp cho gia đình, việc thực hiện tốt chức năng KT và tổ chức tiêu dùng cũng đem lại lợi ích to lớn cho XH, gđ trực tiếp tham gia QTSX, tái sản xuất TLSX, TL tiêu dùng giúp cho kinh tế XH tăng trưởng, kinh tế lưu thông, gia đình cũng đóng góp sức LĐ cho XH, giúp cho XH ptr&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1490" y="1410" width="1180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-14" value="- (Gồm gì?) Chức năng thường xuyên của gđ, bao gồm:&amp;nbsp;&lt;div&gt;+ Thoả mãn nhu cầu tâm lý, tình cảm, văn hoá, tinh thần cho các thành viên,&lt;/div&gt;&lt;div&gt;+ đảm bảo cân bằng tâm lý,&lt;/div&gt;&lt;div&gt;+ bảo vệ, chăm sóc sức khoẻ cho người già, trẻ em, người ốm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- (Lợi ích) Thực hiện tốt chức năng,&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ đảm bảo mối quan hệ bền chặt của các thành viên trong gđ,&lt;/div&gt;&lt;div&gt;+ phát triển đầy đủ về mặt tâm lý, tình cảm cho thành viên&lt;/div&gt;&lt;div&gt;+ gia đình không chỉ là nơi thoả mãn về mặt vật chất, còn cần đáp ứng về mặt tình thần&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- (Tác hại khi không thực hiện)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Chức năng này có ý nghĩa quyết định đến sự ổn định, phát triển của XH&lt;/div&gt;&lt;div&gt;một gia đình mà các thành viên không được thoả mãn nhu cầu tâm lý, quan hệ tình cảm gia đình rạn nứt, qh tình cảm XH dễ bị đổ vỡ&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-14" value="- (Gồm gì?) Chức năng thường xuyên của gđ, bao gồm:&amp;nbsp;&lt;div&gt;+ Thoả mãn nhu cầu tâm lý, tình cảm, văn hoá, tinh thần cho các thành viên,&lt;/div&gt;&lt;div&gt;+ đảm bảo cân bằng tâm lý,&lt;/div&gt;&lt;div&gt;+ bảo vệ, chăm sóc sức khoẻ cho người già, trẻ em, người ốm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- (Lợi ích) Thực hiện tốt chức năng,&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ đảm bảo mối quan hệ bền chặt của các thành viên trong gđ,&lt;/div&gt;&lt;div&gt;+ phát triển đầy đủ về mặt tâm lý, tình cảm cho thành viên&lt;/div&gt;&lt;div&gt;+ gia đình không chỉ là nơi thoả mãn về mặt vật chất, còn cần đáp ứng về mặt tình thần&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- (Tác hại khi không thực hiện)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Chức năng này có ý nghĩa quyết định đến sự ổn định, phát triển của XH&lt;/div&gt;&lt;div&gt;một gia đình mà các thành viên không được thoả mãn nhu cầu tâm lý, quan hệ tình cảm gia đình rạn nứt, qh tình cảm XH dễ bị đổ vỡ&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1600" width="1090" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiGG_oShRd3_gKlLi4_5-14" target="PiGG_oShRd3_gKlLi4_5-14">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="PiGG_oShRd3_gKlLi4_5-14" target="PiGG_oShRd3_gKlLi4_5-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-17" value="- Chức năng VH:&lt;div&gt;Gđ không chỉ giữ, bảo tồn và lưu truyền lại các phong tục, tập quán, sinh hoạt VH qua các hoạt động thường nhật mà còn sáng tạo và phát triển những điều đó, đồng thời hưởng thụ những VH của XH&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-17" value="- Chức năng VH:&lt;div&gt;Gđ không chỉ giữ, bảo tồn và lưu truyền lại các phong tục, tập quán, sinh hoạt VH qua các hoạt động thường nhật mà còn sáng tạo và phát triển những điều đó, đồng thời hưởng thụ những VH của XH&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1080" y="2000" width="1090" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PiGG_oShRd3_gKlLi4_5-18" value="- Chức năng CTR&lt;div&gt;Gđ cũng là một tổ chức Ctr XH&lt;br&gt;&lt;div&gt;Gđ tổ chức, thực hiện pháp luật, chính sách, quy chế mà nhà nước đề ra, cũng hưởng lợi từ hệ thống đó&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Gđ chính là cầu nối của nhà nước và công dân&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="PiGG_oShRd3_gKlLi4_5-18" value="- Chức năng CTR&lt;div&gt;Gđ cũng là một tổ chức Ctr XH&lt;br&gt;&lt;div&gt;Gđ tổ chức, thực hiện pháp luật, chính sách, quy chế mà nhà nước đề ra, cũng hưởng lợi từ hệ thống đó&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Gđ chính là cầu nối của nhà nước và công dân&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1080" y="2200" width="1090" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-1" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 6: Quan điểm của chủ nghĩa Mác – Lênin về bản chất, nguồn gốc và nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên CNXH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="60" y="2570" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-2" value="Quan điểm của CN Mác-Lênin về bản chất và nguồn gốc tôn giáo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="525" y="2400" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-3" value="&lt;span class=&quot;fontstyle0&quot;&gt;Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên CNXH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2660" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-4" target="tdltFZh3Xh9CXgMiuRDY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-4" target="tdltFZh3Xh9CXgMiuRDY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-4" target="tdltFZh3Xh9CXgMiuRDY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-4" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 1: Hoàn cảnh lsu ra đời của CNXHKH (chia thành 2 câu nhỏ)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="51" y="4900" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-5" target="tdltFZh3Xh9CXgMiuRDY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;1, Điều kiện KT-XH cho sự ra đời của CNXHKH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="4990" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-6" value="Định nghĩa XHKH theo nghĩa rộng và hẹp (1đ)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="4835" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-7" target="tdltFZh3Xh9CXgMiuRDY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Bắt buộc&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4810" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-10" target="tdltFZh3Xh9CXgMiuRDY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-10" target="tdltFZh3Xh9CXgMiuRDY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-10" target="tdltFZh3Xh9CXgMiuRDY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-10" value="Điệu kiện KT-XH những năm 40 của TK 19" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="4985" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-12" value="CNTB có những bc ptr quan trọng, CMCN hoàn thành ở Anh, Pháp, tiếp tục lan đến Đức, ...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="4940" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-13" target="tdltFZh3Xh9CXgMiuRDY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-13" value="Mặt trái: Tạo thành mâu thuẫn XH =&amp;gt; GCCx mth GCTS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="5045" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-16" value="=&amp;gt; Đấu tranh (nêu các cuộc dtr)&lt;div&gt;Phong trào tự phát ==&amp;gt; tự giác&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="5035" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-17" value="Các Mác cho ra đời CNXHKH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="5150" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2, Ptich tiền đề KHTN và tư tưởng lý luận cho tự ra đời CNXHKH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="5261" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
