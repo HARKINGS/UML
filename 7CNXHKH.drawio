@@ -1,124 +1,124 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1036" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TTsagFuzITH8P4V_9XAO-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-1" target="TTsagFuzITH8P4V_9XAO-2">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-1" target="TTsagFuzITH8P4V_9XAO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-16" target="TTsagFuzITH8P4V_9XAO-3">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-16" target="TTsagFuzITH8P4V_9XAO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-1" value="&lt;div&gt;&lt;span&gt;Câu hỏi 7: Phân tích các chức năng cơ bản của gia đình&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(Câu này có thể tự chém được)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-1" value="&lt;div&gt;&lt;span&gt;Câu hỏi 7: Phân tích các chức năng cơ bản của gia đình&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;(Câu này có thể tự chém được)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="20" y="290" width="370" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-4">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-7">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-8">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-2" target="TTsagFuzITH8P4V_9XAO-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-2" value="&lt;font&gt;Định nghĩa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-2" value="&lt;font&gt;Định nghĩa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-18">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-19">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-21">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-22">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-20">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-3" target="TTsagFuzITH8P4V_9XAO-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-3" value="&lt;font&gt;Các chức năng&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-3" value="&lt;font&gt;Các chức năng&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="300" y="835" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-4" value="&lt;font&gt;1 hình thức cộng đồng XH đặc biệt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-4" value="&lt;font&gt;1 hình thức cộng đồng XH đặc biệt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="70" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-7" value="&lt;font&gt;hình thành, củng cố, duy trì với nhau dựa trên quan hệ hôn nhân, huyết thống, nuôi dưỡng&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-7" value="&lt;font&gt;hình thành, củng cố, duy trì với nhau dựa trên quan hệ hôn nhân, huyết thống, nuôi dưỡng&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="185" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-8" value="vs những quy định về quyền và nghĩa vụ vs các thành viên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-8" value="vs những quy định về quyền và nghĩa vụ vs các thành viên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="310" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-1" target="TTsagFuzITH8P4V_9XAO-16">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-1" target="TTsagFuzITH8P4V_9XAO-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="336" y="461" as="sourcePoint" />
             <mxPoint x="440" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-16" value="&lt;font&gt;Các nhà XH học nghiên cứu gđ trên cấp độ vi mô, vĩ mô đều khẳng định chức năng của gđ.&amp;nbsp; Có 5 chức năng của gđ:&lt;/font&gt;" style="rounded=0;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-16" value="&lt;font&gt;Các nhà XH học nghiên cứu gđ trên cấp độ vi mô, vĩ mô đều khẳng định chức năng của gđ.&amp;nbsp; Có 5 chức năng của gđ:&lt;/font&gt;" style="rounded=0;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="230" y="510" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-18" target="TTsagFuzITH8P4V_9XAO-35">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-36" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-18" target="TTsagFuzITH8P4V_9XAO-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-18" target="TTsagFuzITH8P4V_9XAO-39">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-18" target="TTsagFuzITH8P4V_9XAO-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-18" value="Chức năng tái sản xuất con người" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-18" value="Chức năng tái sản xuất con người" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="650" y="560" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-41">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-44" value="Tầm quan trọng của giáo dục" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="TTsagFuzITH8P4V_9XAO-43">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-44" value="Tầm quan trọng của giáo dục" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="TTsagFuzITH8P4V_9XAO-43" vertex="1" connectable="0">
           <mxGeometry x="-0.0285" y="8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-42">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-46" value="gd gđ vs gd XH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="TTsagFuzITH8P4V_9XAO-45">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-46" value="gd gđ vs gd XH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="TTsagFuzITH8P4V_9XAO-45" vertex="1" connectable="0">
           <mxGeometry x="-0.3326" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-47">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TTsagFuzITH8P4V_9XAO-19" target="TTsagFuzITH8P4V_9XAO-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Phương pháp giáo dục&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TTsagFuzITH8P4V_9XAO-48">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Phương pháp giáo dục&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TTsagFuzITH8P4V_9XAO-48" vertex="1" connectable="0">
           <mxGeometry x="0.0487" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-19" value="Chức năng giáo dục, nuôi dưỡng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-19" value="Chức năng giáo dục, nuôi dưỡng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="800" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-20" value="Chức năng VH, CTRi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-20" value="Chức năng VH, CTRi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="1360" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-21" value="Chức năng KT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1060" width="290" height="90" as="geometry" />
+        <mxCell id="TTsagFuzITH8P4V_9XAO-21" value="Chức năng KT, tổ chức tiêu dùng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1060" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-22" value="Chức năng thoả mãn nhu cầu tâm lý, tình cảm gđ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1200" width="290" height="90" as="geometry" />
+        <mxCell id="TTsagFuzITH8P4V_9XAO-22" value="Chức năng thoả mãn nhu cầu tâm lý, tình cảm gđ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="650" y="1210" width="290" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-35" value="- Chức năng đặc biệt chỉ có ở gia đình&lt;div&gt;- Không chỉ đóng vai trò đáp ứng nhu cầu tâm, sinh lý, duy trì nòi giống của gđ mà còn đáp ứng nhu cầu về lao động, duy trì sự tồn tại của XH&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-35" value="- Chức năng đặc biệt chỉ có ở gia đình&lt;div&gt;- Không chỉ đóng vai trò đáp ứng nhu cầu tâm, sinh lý, duy trì nòi giống của gđ mà còn đáp ứng nhu cầu về lao động, duy trì sự tồn tại của XH&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1080" y="275" width="670" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-39" value="- Tái sản xuất con người ko phải việc riêng của Gđ mà còn là của toàn XH, ảnh hưởng đến mật độ dân số, nguồn lực lao động qg và qt, yto cấu thành nên XH&lt;div&gt;- Thực hiện chức năng này liên quan chặt chẽ đến mọi mặt của XH&lt;/div&gt;&lt;div&gt;- Tuỳ từng nơi mà có nơi sẽ khuyến khích hoặc hạn chế thực hiện chức năng này&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-39" value="- Tái sản xuất con người ko phải việc riêng của Gđ mà còn là của toàn XH, ảnh hưởng đến mật độ dân số, nguồn lực lao động qg và qt, yto cấu thành nên XH&lt;div&gt;- Thực hiện chức năng này liên quan chặt chẽ đến mọi mặt của XH&lt;/div&gt;&lt;div&gt;- Tuỳ từng nơi mà có nơi sẽ khuyến khích hoặc hạn chế thực hiện chức năng này&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1080" y="415" width="670" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-41" value="- Giáo dục gia đình là chức năng, đồng thời là nghĩa vụ của phụ huynh với con cái, dạy chúng thành công dân có ích cho XH&lt;div&gt;- Những hành động, kiến thức mà cha mẹ trao cho con từ nhỏ sẽ định hình tính cách, đạo đức, con người của con cái sau này&lt;/div&gt;&lt;div&gt;- Việc giáo dục, nuôi dưỡng cũng thể hiện tình cảm của cha mẹ với con&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Con cái là phản chiếu của cha mẹ, những ấn tượng đầu đời từ cha mẹ sẽ đem lại dấu ấn sâu đậm, bền vững trong cuộc đời mỗi người&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-41" value="- Giáo dục gia đình là chức năng, đồng thời là nghĩa vụ của phụ huynh với con cái, dạy chúng thành công dân có ích cho XH&lt;div&gt;- Những hành động, kiến thức mà cha mẹ trao cho con từ nhỏ sẽ định hình tính cách, đạo đức, con người của con cái sau này&lt;/div&gt;&lt;div&gt;- Việc giáo dục, nuôi dưỡng cũng thể hiện tình cảm của cha mẹ với con&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Con cái là phản chiếu của cha mẹ, những ấn tượng đầu đời từ cha mẹ sẽ đem lại dấu ấn sâu đậm, bền vững trong cuộc đời mỗi người&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1320" y="560" width="1060" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-42" value="- Có các tổ chức khác cũng có chức năng giáo dục (trường học, lò đào tạo, ...) nhưng ko thể thay thế dc chức năng giáo dục của gđ&lt;div&gt;- Cần kết hợp được cả giáo dục gđ và giáo dục Xh&lt;/div&gt;&lt;div&gt;+ Nếu chỉ có gd gia đình, ko có giáo dục XH, mỗi cá nhân sẽ khoá hoà nhập với XH&lt;/div&gt;&lt;div&gt;+ Chỉ có gd Xh sẽ ko đạt hiệu quả cao khi không có gd gđ&amp;nbsp;&lt;/div&gt;&lt;div&gt;=&amp;gt; Cần tránh việc chỉ coi trọng 1 trong 2 loại giáo dục mà phải kết hợp hài hoà, nhuẫn nhuyễn cả giáo dục XH và giáo dục Gđ, để con cái có thể ptr toàn diện&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-42" value="- Có các tổ chức khác cũng có chức năng giáo dục (trường học, lò đào tạo, ...) nhưng ko thể thay thế dc chức năng giáo dục của gđ&lt;div&gt;- Cần kết hợp được cả giáo dục gđ và giáo dục Xh&lt;/div&gt;&lt;div&gt;+ Nếu chỉ có gd gia đình, ko có giáo dục XH, mỗi cá nhân sẽ khoá hoà nhập với XH&lt;/div&gt;&lt;div&gt;+ Chỉ có gd Xh sẽ ko đạt hiệu quả cao khi không có gd gđ&amp;nbsp;&lt;/div&gt;&lt;div&gt;=&amp;gt; Cần tránh việc chỉ coi trọng 1 trong 2 loại giáo dục mà phải kết hợp hài hoà, nhuẫn nhuyễn cả giáo dục XH và giáo dục Gđ, để con cái có thể ptr toàn diện&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1320" y="730" width="1060" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TTsagFuzITH8P4V_9XAO-47" value="- Giáo dục con cái đúng đắn, để con ptr toàn diện, việc này đòi hỏi bậc làm cha, làm mẹ phải có kiến thức căn bản, tương đối toàn diện về mọi mặt, VH, học vấn, đặc biệt là cách dạy, cách giáo dục" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+        <mxCell id="TTsagFuzITH8P4V_9XAO-47" value="- Giáo dục con cái đúng đắn, để con ptr toàn diện, việc này đòi hỏi bậc làm cha, làm mẹ phải có kiến thức căn bản, tương đối toàn diện về mọi mặt, VH, học vấn, đặc biệt là cách dạy, cách giáo dục" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="1320" y="900" width="1060" height="90" as="geometry" />
         </mxCell>
       </root>
