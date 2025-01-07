@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1036" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1884" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -225,20 +225,29 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-10" value="* Điều kiện KT-XH:&lt;div&gt;- Vào những năm 40 của TK 19, CM CNgh ptr mạnh, tạo ra nền ĐCN&lt;div&gt;&lt;br&gt;&lt;div&gt;- ĐCN ptr mạnh, PTSX TBCN phát triển, bộc lộ nhiều mth trong XHTB&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;" parent="1" vertex="1">
           <mxGeometry x="880" y="2700" width="350.5" height="165" as="geometry" />
         </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-12" target="dHgG3YSDLclF3G5w4GeN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-12" value="CNTB có những bc ptr quan trọng, CMCN hoàn thành ở Anh, Pháp, tiếp tục lan đến Đức, ...." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1290" y="2675" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-13" target="tdltFZh3Xh9CXgMiuRDY-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-13" value="Mặt trái: Tạo thành mâu thuẫn XH =&amp;gt; GCCx mth GCTS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1289.5" y="2840" width="310" height="60" as="geometry" />
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-13" target="dHgG3YSDLclF3G5w4GeN-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-16" value="=&amp;gt; Đấu tranh (nêu các cuộc dtr)&lt;div&gt;Phong trào tự phát ==&amp;gt; tự giác&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="2830" width="300" height="80" as="geometry" />
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-13" value="Mặt trái: Tạo thành mâu thuẫn XH =&amp;gt; GCCx mth GCTS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1289.5" y="2790" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-16" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Sự ptr nhanh chóng, mang tính Ctr công khai của các PT đtr, đã chứng minh&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Lần đầu tiên, GCCn xh như 1 LLCTr độc lập, vs những yêu sách KT - Ctr của riêng mk&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Hướng mũi nhọn cuộc dtr vào kẻ thù chính là GCTS&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Ptr chỉ dừng lại ở cuộc dtr tự phát, dẫn đến thất bại&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Cuộc dtr tất yếu dẫn đến yc cần có &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ hthong lý luận soi đường,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ cương lĩnh ctr làm kim chỉ nam cho HĐ&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="2830" width="910" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-17" target="dHgG3YSDLclF3G5w4GeN-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-17" value="Các Mác cho ra đời CNXHKH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="2950" width="310" height="60" as="geometry" />
+          <mxGeometry x="1294.5" y="2930" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-20" target="tdltFZh3Xh9CXgMiuRDY-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -250,22 +259,22 @@
           <mxGeometry x="500" y="3136" width="320" height="159" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-23" value="Thuyết tế bào Sch.leiden (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3070" width="300" height="60" as="geometry" />
+          <mxGeometry x="1299.5" y="3136" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-24" value="Thuyết tiến hoá Darwin (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3171" width="300" height="60" as="geometry" />
+          <mxGeometry x="1299.5" y="3237" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-25" value="Định luật chuyển hoá năng lượng Lomonoxop (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3270" width="310" height="70" as="geometry" />
+          <mxGeometry x="1299.5" y="3336" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-26" value="Triết học cổ điển Đức (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1419.5" y="3380" width="300" height="60" as="geometry" />
+          <mxGeometry x="1410" y="3500" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-27" value="KTCtr cổ điển Anh&amp;nbsp;(Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1419.5" y="3470" width="300" height="60" as="geometry" />
+          <mxGeometry x="1410" y="3580" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-28" value="CNXHKTPP (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1419.5" y="3580" width="300" height="60" as="geometry" />
+          <mxGeometry x="1410" y="3655" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-33" target="tdltFZh3Xh9CXgMiuRDY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -721,6 +730,15 @@
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-3" value="- Hẹp: 1 trong 3 bộ phận cấu thành CN Mác - Lênin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="2470" width="580" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-7" value="- Kinh tế:&amp;nbsp;&lt;div&gt;+ CMCNgh hoàn thành ở Anh, dần làn sang Pháp, Đức, làm xuất hiện LLSX mới, là nền ĐCN&lt;/div&gt;&lt;div&gt;+ ĐCN ptr, LLSX TBCN ptr vượt bậc&lt;/div&gt;&lt;div&gt;+ Chuyên môn&amp;nbsp; hoá cao -&amp;gt; XH hoá cao&lt;/div&gt;&lt;div&gt;+ CM CN ptr mạnh -&amp;gt; khủng hoảng XH: thiếu nguyên liệu đầu vào, thừa sp&lt;/div&gt;&lt;div&gt;-&amp;gt; Hậu quả:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ KT suy thoái, thất nghiệp&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ MTh giữa LLSX mang tính XH hoá và QHSX TBCN trên chiếm hữu tư x về TLSX&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ Các cuộc khủng hoảng KT theo chu kỳ (1835, 1836, 1846, 1857) cho thấy mth PTSX TBCN ko thể giải quyết dc = các học thuyết KT đương thời&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="2400.5" width="1340" height="189.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-9" value="- XH:&amp;nbsp;&lt;div&gt;+ Cùng vs sự ptr của nền ĐCN, sự ra đời của 2 giai cấp: GCCx và GCTS&lt;/div&gt;&lt;div&gt;+ Mâu thuẫn ngày càng gay gắt giữa LLSX mang tính chất XH vs QHSX trên chế độ chiếm hữu tư x TBCN về TLSX&lt;/div&gt;&lt;div&gt;+ Hình thành các PTĐT GCCx:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1, PTĐT Cx dệt Lyon (Pháp) (1831 - 1834)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2, PTĐT Cx dệt Xiđêli (Đức) (1844)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3, PT hiến Chương tại Anh kéo dài hơn 10 năm (1836 - 1848)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="2640" width="1060" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-12" value="- Đó là yc khách quan cho sự ra đời lý luận CNXHKH&lt;div&gt;- Nó đáp ứng yc pt của PTr Cx&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="3020" width="445" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
