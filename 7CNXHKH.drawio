@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1063" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,8 +222,8 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-10" target="tdltFZh3Xh9CXgMiuRDY-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-10" value="Điệu kiện KT-XH những năm 40 của TK 19" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="980" y="2765" width="250" height="60" as="geometry" />
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-10" value="* Điều kiện KT-XH:&lt;div&gt;- Vào những năm 40 của TK 19, CM CNgh ptr mạnh, tạo ra nền ĐCN&lt;div&gt;&lt;br&gt;&lt;div&gt;- ĐCN ptr mạnh, PTSX TBCN phát triển, bộc lộ nhiều mth trong XHTB&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;" parent="1" vertex="1">
+          <mxGeometry x="880" y="2700" width="350.5" height="165" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-12" value="CNTB có những bc ptr quan trọng, CMCN hoàn thành ở Anh, Pháp, tiếp tục lan đến Đức, ...." style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1290" y="2675" width="310" height="60" as="geometry" />
@@ -232,13 +232,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-13" value="Mặt trái: Tạo thành mâu thuẫn XH =&amp;gt; GCCx mth GCTS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="2780" width="310" height="60" as="geometry" />
+          <mxGeometry x="1289.5" y="2840" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-16" value="=&amp;gt; Đấu tranh (nêu các cuộc dtr)&lt;div&gt;Phong trào tự phát ==&amp;gt; tự giác&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1680" y="2770" width="300" height="80" as="geometry" />
+          <mxGeometry x="1710" y="2830" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-17" value="Các Mác cho ra đời CNXHKH" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="2885" width="310" height="60" as="geometry" />
+          <mxGeometry x="1280" y="2950" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-20" target="tdltFZh3Xh9CXgMiuRDY-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
