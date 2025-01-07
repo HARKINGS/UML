@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1560" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,12 @@
           <mxGeometry x="-0.1835" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-45" target="dHgG3YSDLclF3G5w4GeN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-45" target="dHgG3YSDLclF3G5w4GeN-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-45" value="Trình bày chút về Các mác, Ăng ghen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="630" y="4550" width="285" height="120" as="geometry" />
@@ -775,6 +781,12 @@
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-32" value="Adam Smith, David Ricardo&lt;div&gt;- Các thành tựu:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ bàn tay vô hình&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ lý luận về tiền tệ&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ lý luận về giá trị lao động&lt;br&gt;&lt;/div&gt;&lt;div&gt;=&amp;gt; Những phát kiến vĩ đại về học thuyết Giá trị thặng dư&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1809" y="4020" width="481" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-38" value="&lt;p&gt;&lt;strong&gt;Các Mác (Karl Marx)&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;(1818–1883) là nhà triết học, kinh tế chính trị học, nhà cách mạng xã hội người Đức.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="4490" width="745" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-39" value="&lt;p&gt;&lt;strong&gt;Ph. Ăng-ghen (Friedrich Engels)&lt;/strong&gt;:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;(1820–1895) là nhà triết học, lý luận gia và nhà cách mạng người Đức, đồng chí thân cận của Các Mác.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1022" y="4600" width="871" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
