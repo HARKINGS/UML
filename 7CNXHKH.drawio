@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1884" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,23 +258,32 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-20" value="&lt;span&gt;2, Ptich tiền đề KHTN và tư tưởng lý luận cho tự ra đời CNXHKH (Dài, ko còn thời gian thì co ngắn lại)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="500" y="3136" width="320" height="159" as="geometry" />
         </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-23" target="dHgG3YSDLclF3G5w4GeN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-23" value="Thuyết tế bào Sch.leiden (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3136" width="300" height="60" as="geometry" />
+          <mxGeometry x="1340" y="3142.5" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-24" target="dHgG3YSDLclF3G5w4GeN-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-24" value="Thuyết tiến hoá Darwin (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3237" width="300" height="60" as="geometry" />
+          <mxGeometry x="1340" y="3280" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-25" target="dHgG3YSDLclF3G5w4GeN-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-25" value="Định luật chuyển hoá năng lượng Lomonoxop (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1299.5" y="3336" width="310" height="70" as="geometry" />
+          <mxGeometry x="1335" y="3400" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-26" value="Triết học cổ điển Đức (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="3500" width="300" height="60" as="geometry" />
+          <mxGeometry x="1402.5" y="3540" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-27" value="KTCtr cổ điển Anh&amp;nbsp;(Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="3580" width="300" height="60" as="geometry" />
+          <mxGeometry x="1400" y="3640" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-28" value="CNXHKTPP (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="3655" width="300" height="60" as="geometry" />
+          <mxGeometry x="1400" y="3740" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-33" target="tdltFZh3Xh9CXgMiuRDY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -298,7 +307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-38" value="Tư tưởng lý luận" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="979.5" y="3330" width="250" height="116" as="geometry" />
+          <mxGeometry x="940" y="3490" width="250" height="116" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-44" target="tdltFZh3Xh9CXgMiuRDY-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -739,6 +748,15 @@
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-12" value="- Đó là yc khách quan cho sự ra đời lý luận CNXHKH&lt;div&gt;- Nó đáp ứng yc pt của PTr Cx&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="1940" y="3020" width="445" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-16" value="Sự ra đời của Thuyết tế bào giúp:&amp;nbsp;&lt;div&gt;- con người bác bỏ những quan điểm siêu hình khi tách biệt nhận thức, độc lập mqh giữa thế giới động / thực vật&lt;/div&gt;&lt;div&gt;- Các nhà KH nhận ra sự thống nhất trong sự đa dạng của sinh giới, mọi sinh vật sống đều bắt đầu từ 1 TB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Các Mác kế thừa quan điểm mọi sự sống, hiện tượng sinh học đều có cơ sở vật chất -&amp;gt; KĐ quan điểm duy vật về sự tồn tại của thế giới tự nhiên, là cơ sở hình thành&lt;b&gt; Chủ nghĩa Duy vật Biện chứng&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="3108" width="1050" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-18" value="Sự ra đời:&lt;div&gt;- phát hiện ý nghĩa chọn lọc tự nhiên, giúp con người thoát khỏi quan điểm duy tâm khi lý giải về nguồn gốc con người, thế giới vật chất&lt;/div&gt;&lt;div&gt;- giúp các nhà KH nghiên cứu sự phát triển của thế giới theo quan điểm &lt;b&gt;Duy vật Biện chứng,&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;lý giải sự ptr của loài người là tuân theo quy luật tự nhiên&lt;/div&gt;&lt;div&gt;Các Mác coi Thuyết tiến Hoá của Darwin là minh chứng cho tính vận động và ptr của thế giới tự nhiên&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;mọi vật ko ngừng thay đổi, tiến hoá từ đơn giản -&amp;gt; phức tạp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;phù hợp vs nguyên lý của ptr của phép &lt;b&gt;Biện chứng Duy vật&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="3237" width="1105" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-21" value="Vận dụng định luật, xem xét thế giới vật chất, các nhà KH thấy được:&lt;div&gt;- thế giới vật chất là vc vô tận,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- sự chuyển hoá diễn ra ở nhiều dạng khác nhau, ko thể biến mất&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Các Mác kế thừa tư tưởng về bảo toàn và chuyển hoá,&amp;nbsp;&lt;/div&gt;&lt;div&gt;nhấn mạnh tính thống nhất và chuyển hoá lẫn nhau giữa các dạng vật chất,&amp;nbsp;&lt;/div&gt;&lt;div&gt;góp phần xây dựng nguyên lý về tính thống nhất vật chất của thế giới&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1725" y="3387" width="639" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
