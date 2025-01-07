@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1783" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,29 +261,38 @@
         <mxCell id="dHgG3YSDLclF3G5w4GeN-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-23" target="dHgG3YSDLclF3G5w4GeN-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-23" value="Thuyết tế bào Sch.leiden (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="3142.5" width="300" height="60" as="geometry" />
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-23" value="Thuyết tế bào M.J.Schleiden, Th.Schwann (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1255" y="3142.5" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-24" target="dHgG3YSDLclF3G5w4GeN-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-24" value="Thuyết tiến hoá Darwin (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="3280" width="300" height="60" as="geometry" />
+          <mxGeometry x="1290" y="3280" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-25" target="dHgG3YSDLclF3G5w4GeN-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-25" value="Định luật chuyển hoá năng lượng Lomonoxop (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1335" y="3400" width="310" height="70" as="geometry" />
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-25" value="Định luật chuyển hoá năng lượng M.V.Lomonoxop, Mayer (pt, CM, các mác kế thừa điều gì)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="3400" width="415" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-26" target="dHgG3YSDLclF3G5w4GeN-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-26" value="Triết học cổ điển Đức (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1402.5" y="3540" width="300" height="60" as="geometry" />
+          <mxGeometry x="1355" y="3690" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-27" target="dHgG3YSDLclF3G5w4GeN-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-27" value="KTCtr cổ điển Anh&amp;nbsp;(Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="3640" width="300" height="60" as="geometry" />
+          <mxGeometry x="1354" y="4070" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-28" value="CNXHKTPP (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="3740" width="300" height="60" as="geometry" />
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-28" target="dHgG3YSDLclF3G5w4GeN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-28" value="CNXHKTPP (Pháp) (Do ai, từ ai, họ đưa ra gì, Các mác kế thừa gì?)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1354" y="3850" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-33" target="tdltFZh3Xh9CXgMiuRDY-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -322,7 +331,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-44" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 2: Vai trò của Các Mác, Ăng ghen&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="61" y="3775" width="410" height="230" as="geometry" />
+          <mxGeometry x="61" y="4610" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-45" target="tdltFZh3Xh9CXgMiuRDY-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -333,10 +342,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-45" value="Trình bày chút về Các mác, Ăng ghen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="630" y="3715" width="285" height="120" as="geometry" />
+          <mxGeometry x="630" y="4550" width="285" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-46" value="Tại sao 2 người lại thay đổi thế giới quan, lập trường CM (Thời điểm thay đổi, tại sao thay đổi, thay đổi như nào, thể hiện ở đâu)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="630" y="3885" width="285" height="120" as="geometry" />
+          <mxGeometry x="630" y="4720" width="285" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-49" target="tdltFZh3Xh9CXgMiuRDY-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -353,19 +362,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-49" value="Ba phát kiến vĩ đại của Các Mác, Ph. Ăng ghen (3 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="630" y="4065" width="285" height="120" as="geometry" />
+          <mxGeometry x="630" y="4900" width="285" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-50" value="Chủ nghĩa duy vật lsu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="4035" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="4870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-51" value="Học thuyết gt thặng dư" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="4134.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="4969.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-52" value="Sứ mệnh lsu của GCCx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="4245" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="5080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-57" value="Tuyên ngôn của&amp;nbsp;&lt;div&gt;ĐCS (Viết một chút) (1 điểm)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="630" y="4315" width="285" height="120" as="geometry" />
+          <mxGeometry x="630" y="5150" width="285" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-62" target="tdltFZh3Xh9CXgMiuRDY-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -377,7 +386,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-62" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 3.1: Phân tích những điều kiện khách quan quy định sứ mệnh lsu của GCCx&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="90" y="4915" width="410" height="230" as="geometry" />
+          <mxGeometry x="90" y="5750" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-82" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-63" target="tdltFZh3Xh9CXgMiuRDY-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -388,25 +397,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-63" value="Định nghĩa GCCx" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="681" y="4825" width="270" height="150" as="geometry" />
+          <mxGeometry x="681" y="5660" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-64" value="Sứ mệnh lsu của GCCx" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="680" y="5035" width="270" height="150" as="geometry" />
+          <mxGeometry x="680" y="5870" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-65" target="tdltFZh3Xh9CXgMiuRDY-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-65" value="DK khách quan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="680" y="5235" width="270" height="150" as="geometry" />
+          <mxGeometry x="680" y="6070" width="270" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-66" target="tdltFZh3Xh9CXgMiuRDY-77" edge="1">
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-66" target="tdltFZh3Xh9CXgMiuRDY-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-66" target="tdltFZh3Xh9CXgMiuRDY-84" edge="1">
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-66" target="tdltFZh3Xh9CXgMiuRDY-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-66" value="Địa vị KT-XH của GCCx (Phải hiểu)&lt;div&gt;(2 điểm)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="5185" width="340" height="70" as="geometry" />
+          <mxGeometry x="1071" y="6060" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.406;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-65" target="tdltFZh3Xh9CXgMiuRDY-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -424,25 +433,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-72" value="Những đặc điểm CT-XH của GCCx&lt;div&gt;(2 điểm)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="951" y="5495" width="340" height="70" as="geometry" />
+          <mxGeometry x="951" y="6330" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-73" value="Giai cấp tiên tiến nhất" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="5425" width="220" height="80" as="geometry" />
+          <mxGeometry x="1400" y="6260" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-75" value="Có ý thức tổ chức kỷ luật cao (Tại sao, CM)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="5525" width="220" height="80" as="geometry" />
+          <mxGeometry x="1410" y="6360" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-77" value="GCCx là gc có địa vị của người làm thuê cho GCTS, bị GCTS bóc lột giá trị thăng dự" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="5135" width="290" height="120" as="geometry" />
+          <mxGeometry x="1530" y="5980" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-78" value="Có tinh thần CM triệt để" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="5635" width="220" height="80" as="geometry" />
+          <mxGeometry x="1400" y="6470" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-79" value="Có bản chất quốc tế" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="5755" width="220" height="80" as="geometry" />
+          <mxGeometry x="1400" y="6590" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-84" value="LLLĐ cơ bản (Viết phải lột tả được ý nghĩa):&lt;br&gt;Trong XHTB, họ là LL tạo ra cơ bản vật chất của XH nên họ là LL cơ bản ...." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="5275" width="310" height="90" as="geometry" />
+          <mxGeometry x="1520" y="6120" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-91" target="tdltFZh3Xh9CXgMiuRDY-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -460,7 +469,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-91" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 3.2: Phân tích những điều kiện chủ quan quy định sứ mệnh lsu của GCCx&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="50" y="6005" width="410" height="230" as="geometry" />
+          <mxGeometry x="50" y="6840" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-102" target="tdltFZh3Xh9CXgMiuRDY-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -471,49 +480,49 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-102" value="Định nghĩa GCCx" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="670" y="5975" width="270" height="117" as="geometry" />
+          <mxGeometry x="670" y="6810" width="270" height="117" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-103" value="Sứ mệnh lsu của GCCx" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="669" y="6128" width="271" height="117" as="geometry" />
+          <mxGeometry x="669" y="6963" width="271" height="117" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-106" value="Bản lĩnh Ctr" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1490.5" y="6458" width="229" height="90" as="geometry" />
+          <mxGeometry x="1580" y="7323" width="229" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-107" value="Trình độ học vấn" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1490.5" y="6565" width="229" height="90" as="geometry" />
+          <mxGeometry x="1580" y="7430" width="229" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-110" target="tdltFZh3Xh9CXgMiuRDY-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-110" value="DK Chủ quan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="681" y="6385" width="270" height="150" as="geometry" />
+          <mxGeometry x="681" y="7220" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-112" value="&lt;span&gt;Ptr về số lượng: Hiện nay các nước CNH, HĐH...&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1077.5" y="6333" width="310" height="140" as="geometry" />
+          <mxGeometry x="1077.5" y="7168" width="310" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-106" edge="1">
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-107" edge="1">
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-114" edge="1">
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-113" target="tdltFZh3Xh9CXgMiuRDY-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-113" value="&lt;span&gt;Ptr về chất lượng&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1077.5" y="6555" width="325" height="130" as="geometry" />
+          <mxGeometry x="1077.5" y="7390" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-114" value="Chuyên môn, nhiệm vụ, kỹ năng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1490.5" y="6695" width="229" height="90" as="geometry" />
+          <mxGeometry x="1580" y="7560" width="229" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-115" value="Vai trò ĐCS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="680" y="6615" width="270" height="150" as="geometry" />
+          <mxGeometry x="680" y="7450" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-110" target="tdltFZh3Xh9CXgMiuRDY-112" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-118" value="Liên minh vs các tầng lớp khác" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="690" y="6815" width="270" height="150" as="geometry" />
+          <mxGeometry x="690" y="7650" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-125" target="tdltFZh3Xh9CXgMiuRDY-149" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -528,13 +537,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-125" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 4: Phân tích tính tất yếu khách quan của thời kỳ quá độ lên CNXH&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="61" y="7235" width="410" height="230" as="geometry" />
+          <mxGeometry x="61" y="8070" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-149" value="C.Mác CM sự ptr của XH loài người = học thuyết hình thái KTXH" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="7175" width="270" height="150" as="geometry" />
+          <mxGeometry x="610" y="8010" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-150" value="Tại sao cần có thời kỳ quá độ (Khác bản chất)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="7375" width="270" height="150" as="geometry" />
+          <mxGeometry x="610" y="8210" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-151" target="tdltFZh3Xh9CXgMiuRDY-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -543,22 +552,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-151" value="Có 2 hình thức quá độ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="7565" width="270" height="130" as="geometry" />
+          <mxGeometry x="610" y="8400" width="270" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-152" value="&lt;span&gt;Trực tiếp (&lt;/span&gt;các nước đã qua phương thức TBCN)" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="7525" width="325" height="130" as="geometry" />
+          <mxGeometry x="1030" y="8360" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-153" value="&lt;span&gt;Gián tiếp (các nước chưa qua phương thức TBCN)&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="7695" width="325" height="130" as="geometry" />
+          <mxGeometry x="1030" y="8530" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-155" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-151" target="tdltFZh3Xh9CXgMiuRDY-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-156" value="Định nghĩa thời kỳ quá độ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="7785" width="270" height="150" as="geometry" />
+          <mxGeometry x="610" y="8620" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-164" value="Rút ngắn quá trình ptr" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="7975" width="270" height="150" as="geometry" />
+          <mxGeometry x="610" y="8810" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-165" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-125" target="tdltFZh3Xh9CXgMiuRDY-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -573,16 +582,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-166" value="&lt;span class=&quot;fontstyle0&quot;&gt;Câu 5:&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;Khái niệm dân tộc và cương lĩnh dân tộc của chủ nghĩa Mác – Lênin.&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="50" y="8445" width="410" height="230" as="geometry" />
+          <mxGeometry x="50" y="9280" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-167" value="Định nghĩa (Rộng và hẹp) (Chỉ cần 2)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="8455" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="9290" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-168" value="&lt;span&gt;Các dtoc hoàn toàn bình đẳng&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="8745" width="325" height="130" as="geometry" />
+          <mxGeometry x="1050" y="9580" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-170" value="3 Căn cứ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="8675" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="9510" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-171" target="tdltFZh3Xh9CXgMiuRDY-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -594,13 +603,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-171" value="ND Cương lĩnh" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="8895" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="9730" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-172" value="&lt;span&gt;Các dtoc được quyền tự quyết&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="8915" width="325" height="130" as="geometry" />
+          <mxGeometry x="1050" y="9750" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-173" value="&lt;span&gt;Liên hiệp Cx all dtoc&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="9115" width="325" height="130" as="geometry" />
+          <mxGeometry x="1050" y="9950" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-191" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-174" target="tdltFZh3Xh9CXgMiuRDY-175" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -615,13 +624,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-174" value="Câu 6.1: Phân tích bản chất của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="90" y="9435" width="410" height="230" as="geometry" />
+          <mxGeometry x="90" y="10270" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-175" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="612.5" y="9435" width="320" height="100" as="geometry" />
+          <mxGeometry x="612.5" y="10270" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-179" value="Thế giới quan duy tâm != Chủ nghĩa duy vật -&amp;gt; Hạn chế" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1022" y="9425" width="518" height="180" as="geometry" />
+          <mxGeometry x="1022" y="10260" width="518" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-180" target="tdltFZh3Xh9CXgMiuRDY-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -630,16 +639,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-180" value="Xét về mặt bản chất, tôn giáo là một hiện tượng XH Tiêu cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="612.5" y="9575" width="320" height="100" as="geometry" />
+          <mxGeometry x="612.5" y="10410" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-186" value="Con người sáng tạo ra thế giới =&amp;gt; Ứng dụng" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1032.5" y="9645" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1032.5" y="10480" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-189" value="Xét ở 1 số góc độ nhất định, tôn giáo vẫn có tính tích cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="9775" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="10610" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-190" value="Phân biệt tôn giáo, tín ngưỡng, mê tín dị đoan, cuồng tín" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="9945" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="10780" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-196" target="tdltFZh3Xh9CXgMiuRDY-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -654,19 +663,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-196" value="Câu 6.2: Phân tích nguồn gốc của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="30" y="10760" width="410" height="230" as="geometry" />
+          <mxGeometry x="30" y="11595" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-197" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="612.5" y="10685" width="320" height="100" as="geometry" />
+          <mxGeometry x="612.5" y="11520" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-198" value="Nguồn gốc tự nhiên, KT-XH" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="10835" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="11670" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-199" value="Nguồn gốc nhận thức" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="10995" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="11830" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-201" value="Nguồn gốc tâm lý" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="11145" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="11980" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-209" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -702,10 +711,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-215" value="Câu 7: Phân tích các chức năng cơ bản của gđ" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="11780" width="410" height="230" as="geometry" />
+          <mxGeometry x="80" y="12615" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-216" value="Định nghĩa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="585" y="11740" width="320" height="100" as="geometry" />
+          <mxGeometry x="585" y="12575" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-220" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-217" target="tdltFZh3Xh9CXgMiuRDY-219" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -720,19 +729,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-217" value="Chức năng" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="595" y="11950" width="320" height="100" as="geometry" />
+          <mxGeometry x="595" y="12785" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-219" value="Tái sản xuất con người" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1082.5" y="11870" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1082.5" y="12705" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-221" value="Kinh tế, tổ chức tốt đời sống gđ" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1092.5" y="12070" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1092.5" y="12905" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-223" value="Giáo dục, nuôi dưỡng" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="12275" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1100" y="13110" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-224" value="Thoả mãn nhu cầu tâm, sinh lý, tình cảm" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1092.5" y="12490" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1092.5" y="13325" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-2" value="- Rộng: Là CN Mác-Lênin, luận giải từ các giác độ triết hoc, KT học- CTR, CTR-XH về sự chuyển biến tất yếu của XH loài người từ CNTB lên CNCS và CNXH" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="2380" width="580" height="100" as="geometry" />
@@ -757,6 +766,15 @@
         </mxCell>
         <mxCell id="dHgG3YSDLclF3G5w4GeN-21" value="Vận dụng định luật, xem xét thế giới vật chất, các nhà KH thấy được:&lt;div&gt;- thế giới vật chất là vc vô tận,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- sự chuyển hoá diễn ra ở nhiều dạng khác nhau, ko thể biến mất&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Các Mác kế thừa tư tưởng về bảo toàn và chuyển hoá,&amp;nbsp;&lt;/div&gt;&lt;div&gt;nhấn mạnh tính thống nhất và chuyển hoá lẫn nhau giữa các dạng vật chất,&amp;nbsp;&lt;/div&gt;&lt;div&gt;góp phần xây dựng nguyên lý về tính thống nhất vật chất của thế giới&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1725" y="3387" width="639" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-28" value="- Kế thừa từ Hêghen, trên cơ cở loại bỏ yto duy tâm thần bí&lt;div&gt;- Kế thừa các quan điểm của Phơbách&lt;/div&gt;&lt;div&gt;-&amp;gt; Xây dựng nên phép &lt;b&gt;Biện chứng Duy vật&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="3630" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-30" value="Xanh xi mông, Phuriê,&amp;nbsp; Ooen&lt;div&gt;- Những tư tưởng về:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ xây dựng chế độ công hữu về TLSX&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ nhà nước&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ giải phóng phụ nữ&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ thực nghiệm XH&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Các Mác và Ph.Ăngghen kế thừa những hạt nhân hợp lý, loại bỏ bất hợp lý, xây dựng và ptr CNXHKH&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1759" y="3780" width="621" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dHgG3YSDLclF3G5w4GeN-32" value="Adam Smith, David Ricardo&lt;div&gt;- Các thành tựu:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ bàn tay vô hình&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ lý luận về tiền tệ&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ lý luận về giá trị lao động&lt;br&gt;&lt;/div&gt;&lt;div&gt;=&amp;gt; Những phát kiến vĩ đại về học thuyết Giá trị thặng dư&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1809" y="4020" width="481" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
