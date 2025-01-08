@@ -376,11 +376,14 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-50" value="Chủ nghĩa duy vật lsu - Phát kiến thức nhất" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1154.5" y="4860" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-51" value="Học thuyết gt thặng dư" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1154.5" y="4980" width="120" height="60" as="geometry" />
+        <mxCell id="Lfcq5Se24yN2CEEejTU--8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-51" target="Lfcq5Se24yN2CEEejTU--7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-52" value="Sứ mệnh lsu của GCCx" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="5080" width="120" height="60" as="geometry" />
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-51" value="Học thuyết gt thặng dư - Phát kiến thứ 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1154.5" y="4980" width="155.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-52" value="Sứ mệnh lsu của GCCx - Phát kiến thứ 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="5080" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-57" value="Tuyên ngôn của&amp;nbsp;&lt;div&gt;ĐCS (Viết một chút) (1 điểm)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="630" y="5150" width="285" height="120" as="geometry" />
@@ -793,6 +796,9 @@
         </mxCell>
         <mxCell id="Lfcq5Se24yN2CEEejTU--5" value="- C. Mác là người đầu tiên nghiên cứu sự phát triển của loài người trên cơ sở CNDVBC. Chỉ ra:&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ Sự ptr của loài người là &lt;font style=&quot;color: rgb(255, 35, 72);&quot;&gt;qtr lich sử tự nhiên&lt;/font&gt;, thông qua sự vận động của hình thái KT - XH.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ Thông qua quy luật vận động của PTSX TBCN,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;C.Mác KĐ hình thái KT-XH CSCN thay thế cho hình thái KT-XH TBCN là tất yếu khách quan&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="1387.5" y="4840" width="1060" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Lfcq5Se24yN2CEEejTU--7" value="- Từ việc &lt;font style=&quot;color: rgb(38, 27, 255);&quot;&gt;phát hiện ra CNDVLS&lt;/font&gt;, C.Mác và Ph.Ăngghen&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt; đi sâu nghiên cứu&lt;/font&gt; nền SXCN, nền KTTBCN, &lt;font style=&quot;color: rgb(255, 0, 255);&quot;&gt;viết nên bộ &quot;Tư bản&quot;&lt;/font&gt;, giá trị to lớn nhất của nó là&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt; &quot;Học thuyết giá trị thặng dư&quot;&lt;/font&gt;, phát kiến này KĐ: T&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;rên phương diện KT,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;sự thay thế của &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 21, 21), rgb(255, 255, 255));&quot;&gt;PTSX TBCN&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, đặc trưng là&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 84, 244), rgb(255, 255, 255));&quot;&gt; QHSX dựa trên chế độ tư hữu về TLSX&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;+ sự ra đời của &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 35, 72), rgb(255, 255, 255));&quot;&gt;PTSX CSCN&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;, đặc trưng là &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 70, 229), rgb(255, 255, 255));&quot;&gt;QHSX dựa trên chế độ công hữu về TLSX&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; là &lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(178, 102, 255), rgb(255, 255, 255));&quot;&gt;tất yếu&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1387.5" y="4960" width="1052.25" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
