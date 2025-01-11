@@ -721,7 +721,7 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-194" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-174" target="tdltFZh3Xh9CXgMiuRDY-190" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdltFZh3Xh9CXgMiuRDY-174" value="Câu 6.1: Phân tích bản chất của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="tdltFZh3Xh9CXgMiuRDY-174" value="Câu 6.1: Phân tích &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;bản chất &lt;/font&gt;của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="90" y="14313" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="6tEGE9rut1zL4w8TgjFP-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-175" target="6tEGE9rut1zL4w8TgjFP-3">
@@ -730,8 +730,11 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-175" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="612.5" y="14313" width="320" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-179" target="6tEGE9rut1zL4w8TgjFP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-179" value="Thế giới quan duy tâm != Chủ nghĩa duy vật -&amp;gt; Hạn chế" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1043.5" y="14523" width="518" height="180" as="geometry" />
+          <mxGeometry x="965" y="14450" width="518" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-187" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-180" target="tdltFZh3Xh9CXgMiuRDY-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -740,16 +743,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-180" value="Xét về mặt bản chất, tôn giáo là một hiện tượng XH Tiêu cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="611" y="14553" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="14553" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-186" target="6tEGE9rut1zL4w8TgjFP-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-186" value="Con người sáng tạo ra thế giới =&amp;gt; Ứng dụng" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="14720" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="977" y="14653" width="507.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-189" target="6tEGE9rut1zL4w8TgjFP-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-189" value="Xét ở 1 số góc độ nhất định, tôn giáo vẫn có tính tích cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="619" y="14910" width="320" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-190" target="6tEGE9rut1zL4w8TgjFP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-190" target="6tEGE9rut1zL4w8TgjFP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-190" target="6tEGE9rut1zL4w8TgjFP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-190" target="6tEGE9rut1zL4w8TgjFP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-190" target="6tEGE9rut1zL4w8TgjFP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-190" value="Phân biệt tôn giáo, tín ngưỡng, mê tín dị đoan, cuồng tín" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="15070" width="320" height="100" as="geometry" />
+          <mxGeometry x="612.5" y="15432" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZS9HiiJeUkR3ul2IZ0Ad-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-196" target="tdltFZh3Xh9CXgMiuRDY-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -764,19 +788,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-196" value="Câu 6.3: Phân tích nguồn gốc của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="50" y="16650" width="410" height="230" as="geometry" />
+          <mxGeometry x="67.5" y="17070" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-197" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="692.5" y="16540" width="320" height="100" as="geometry" />
+          <mxGeometry x="710" y="16960" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-198" value="Nguồn gốc tự nhiên, KT-XH" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="690" y="16690" width="320" height="100" as="geometry" />
+          <mxGeometry x="707.5" y="17110" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-199" value="Nguồn gốc nhận thức" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="690" y="16850" width="320" height="100" as="geometry" />
+          <mxGeometry x="707.5" y="17270" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-201" value="Nguồn gốc tâm lý" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="690" y="17000" width="320" height="100" as="geometry" />
+          <mxGeometry x="707.5" y="17420" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-209" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -787,23 +811,43 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-212" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-211" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-206" value="Câu 6.2: Phân tích nguyên tắc tôn giáo từ TKQĐ lên CNXH" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="15550" width="410" height="230" as="geometry" />
+          <mxGeometry x="97.5" y="15970" width="410" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-207" target="6tEGE9rut1zL4w8TgjFP-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-207" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="580" y="15460" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="15910" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-208" target="6tEGE9rut1zL4w8TgjFP-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-208" value="Tôn trọng (Vì sao, thể hiện chỗ nào)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="580" y="15650" width="320" height="100" as="geometry" />
+          <mxGeometry x="597.5" y="16095" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-211" target="6tEGE9rut1zL4w8TgjFP-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-211" value="Khắc phục những ảnh hưởng tôn giáo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="580" y="15820" width="320" height="100" as="geometry" />
+          <mxGeometry x="595" y="16350" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-213" target="6tEGE9rut1zL4w8TgjFP-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="16510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-213" value="Phân biệt mặt chính trị và tư tưởng (Là gì, như nào)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="580" y="15980" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="16610" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-214" value="Quan điểm lsu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="580" y="16130" width="320" height="100" as="geometry" />
+          <mxGeometry x="597.5" y="16790" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZS9HiiJeUkR3ul2IZ0Ad-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-215" target="tdltFZh3Xh9CXgMiuRDY-216" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1005,6 +1049,46 @@
         </mxCell>
         <mxCell id="6tEGE9rut1zL4w8TgjFP-3" value="- Theo quan điểm CN Mác - Lênin, &lt;b&gt;Tôn giáo &lt;/b&gt;là một &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hình thái | ý thức | XH &lt;/font&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;phản ánh &lt;/font&gt;hư ảo &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hiện thực khách quan&lt;/font&gt;.&amp;nbsp;&lt;div&gt;+ Thông qua &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;sự phản ảnh đó&lt;/font&gt;, các LL &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;tự nhiên &lt;/font&gt;và &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;XH &lt;/font&gt;trở thành&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt; siêu nhiên, thần bí&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
           <mxGeometry x="1040" y="14323" width="920" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-7" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;b&gt;Tín ngưỡng&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;Thể hiện&lt;/font&gt; &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;niềm tin của con người&lt;/font&gt; vào một &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;LL siêu nhiên &lt;/font&gt;nào đó nhưng&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt; ko có&lt;/font&gt; giáo lý, giáo luật, gắn với VH, phong tục địa phương&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1121.75" y="15422" width="950.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-8" value="&lt;span class=&quot;fontstyle0&quot;&gt;&lt;b&gt;Mê tín&lt;/b&gt; là &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;niềm tin&lt;/font&gt; &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;mê muội, viển vông&lt;/font&gt;, không dựa trên một cơ sở khoa học nào&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1121.75" y="15562" width="640.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-9" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;b&gt;Mê tín dị đoan&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;Thể hiện&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;niềm tin &lt;/font&gt;của con người vào 1 &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;lực lượng siêu nhiên &lt;/font&gt;một cách cuồng tín, cực đoan,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;gây tổn hại&lt;/font&gt; cho con người, cá nhân, cộng đồng về vật chất, tinh thần, trí tuệ&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1121.75" y="15622" width="701.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-13" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;b&gt;Cuồng tín&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;- Các HĐ liên quan đến tôn giáo,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nhưng&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt; ảnh hướng rất xấu &lt;/font&gt;đến con người,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;có thể &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;nguy hiểm đến tính mạng&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1121.75" y="15742" width="391.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-15" value="&lt;div&gt;&lt;span style=&quot;font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;font&gt;&lt;b&gt;Tôn giáo&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font&gt;&lt;/font&gt;&lt;table style=&quot;table-layout: fixed; font-family: Arial; width: 0px; border-collapse: collapse; border: none;&quot; data-sheets-baot=&quot;1&quot; data-sheets-root=&quot;1&quot; border=&quot;1&quot; dir=&quot;ltr&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;1120&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;&quot;&gt;+ Có một &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;đấng tối cao&lt;/font&gt; để &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;tôn thờ&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;&quot;&gt;+ Có &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;giáo lý, giáo luật, nghi lễ&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;&quot;&gt;+ Có &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;cơ sở &lt;/font&gt;để &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;thờ cúng&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;&quot;&gt;+ Có &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hệ thống tín đồ&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; overflow-wrap: break-word;&quot;&gt;+ Có &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;chức sắc, giáo hội&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1121.75" y="15240" width="290.75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-17" value="&lt;span style=&quot;font-family: Arial; font-style: normal;&quot; data-sheets-root=&quot;1&quot;&gt;- Mặt bản chất, &lt;b&gt;tôn giáo&lt;/b&gt; là một &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hiện tượng XH tiêu cực&lt;/font&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; font-style: normal;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;vì &lt;b&gt;tôn giáo&lt;/b&gt; dựa trên&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; font-style: normal;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cơ sở&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; thế giới quan duy tâm&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial; font-style: normal;&quot; data-sheets-root=&quot;1&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;khác với &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;quan điểm duy vật &lt;/font&gt;của Mác&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1519" y="14483" width="468" height="130" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;table style=&quot;table-layout: fixed; font-family: Arial; width: 0px; border-collapse: collapse; border: none;&quot; data-sheets-baot=&quot;1&quot; data-sheets-root=&quot;1&quot; border=&quot;1&quot; dir=&quot;ltr&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; xmlns=&quot;http://www.w3.org/1999/xhtml&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;1120&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 20pt; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;Hạn chế&lt;/font&gt; khả năng&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt; vươn lên làm chủ&lt;/font&gt; của con người&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 20pt; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- Con người&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt; sáng tạo&lt;/font&gt; ra &lt;b&gt;tôn giáo &lt;/b&gt;để &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;đáp ứng &lt;/font&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;nhu cầu tinh thần &lt;/font&gt;của mình.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nhưng sau đó một số người &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;phục tùng, sợ hãi&lt;/font&gt;&lt;b&gt; tôn giáo&lt;/b&gt;.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height: 21px;&quot;&gt;&lt;td style=&quot;border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: middle; font-size: 20pt; overflow-wrap: break-word;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;- Một số &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;thế lực thống trị&lt;/font&gt;, một số &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;thế lực thù địch&lt;/font&gt; &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;lợi dụng&lt;/font&gt; tôn giáo.&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" id="6tEGE9rut1zL4w8TgjFP-19">
+          <mxCell style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1519" y="14656.5" width="629.5" height="156.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Xét ở &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;một số góc độ nhất định&lt;/font&gt;, tôn giáo cũng có&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; tính tích cực&lt;/font&gt;&lt;br&gt;- Các&lt;b&gt; tôn giáo&lt;/b&gt; đều có&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt; giá trị nhất định&lt;/font&gt; về &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;mặt đạo đức&lt;br&gt;&lt;/font&gt;- Chỗ dựa tinh thần cho con người&lt;br&gt;- &lt;b&gt;Tôn giáo &lt;/b&gt;cx là một hiện tượng văn hoá, &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;gắn kết&lt;/font&gt; con người vs nhau" id="6tEGE9rut1zL4w8TgjFP-21">
+          <mxCell style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1240" y="14850" width="570" height="130" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-23" value="&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;- Theo CN Mác-Lênin,&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;b&gt;+ Tôn giáo &lt;/b&gt;là một hình thái ý thức XH, phản ánh hư ảo hiện thức khách quan&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Arial&quot;&gt;+ Theo phản ánh đó, các lực lượng tự nhiên, XH trở nên siêu nhiên, thần bí&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1054.25" y="15905" width="642.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-26" value="-&amp;nbsp;&lt;span class=&quot;fontstyle0&quot;&gt;Về phương diện&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; thế giới quan&lt;/font&gt;&lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;fontstyle3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;các &lt;b&gt;tôn giáo&lt;/b&gt; mang&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; thế giới quan duy tâm&lt;/font&gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;có sự khác biệt với &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;thế giới quan duy vật biện chứng&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;, KH&lt;/font&gt; của CN Mác - Lênin.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;fontstyle3&quot;&gt;+ Mặc dù có sự khác biệt về &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;thế giới quan&lt;/font&gt;, nhưng chúng ta cần &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;t&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;ôn trọng&lt;/font&gt; và&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt; bảo đảm &lt;/font&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;quyền tự do&lt;/font&gt; &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;tín ngưỡng và không tín ngưỡng của nhân dân&lt;/font&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+ Do&lt;b&gt; tôn giáo&lt;/b&gt; còn là&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nhu cầu tinh thần&lt;/font&gt; của &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;đông đảo của quần chúng xd&lt;/font&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;cho nên &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;đáp ứng &lt;/font&gt;nhu cầu đó &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;thể hiện&lt;/font&gt; &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;bản chất của nền DCXHCN&lt;/font&gt;.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;+ &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;Mọi công dân&lt;/font&gt; theo hoặc không theo tôn giáo &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;đều bình đẳng&lt;/font&gt; trước pháp luật về &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;quyền lợi và nghĩa vụ&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1054.25" y="16030" width="825.75" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-30" value="- Phân biệt được&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; mặt CTr&lt;/font&gt; và &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;mặt tư tưởng&lt;/font&gt; trong việc giải quyết vấn đề tôn giáo:&lt;br&gt;+ Mặt chính trị: &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;Phản ánh&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;mqh giữa &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;tiến bộ vs phản tiến bộ&lt;/font&gt;,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;mâu thuẫn đối kháng&lt;/font&gt; về&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt; lợi ích KT, CT&lt;/font&gt; giữa các giai cấp,&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;Nhân dân LĐ &lt;/font&gt;với &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;các thế lực lợi dụng tôn giáo&lt;/font&gt;&lt;br&gt;+ Mặt tư tưởng: Biểu hiện khác nhau về niềm tin, mức độ tin giữa&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Con người&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;theo tôn giáo này vs con người theo tôn giáo khác,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#x9;&lt;/span&gt;theo vs ko theo tôn giáo&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1083.25" y="16540" width="655.75" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-33" value="&lt;span class=&quot;fontstyle0&quot;&gt;- Nguyên tắc này để KĐ CN Mác - Lênin chỉ&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;hướng vào &lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;giải quyết &lt;/font&gt;những &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;ảnh hưởng tiêu&amp;nbsp;cực&lt;/font&gt; của &lt;b&gt;tôn giáo&lt;/b&gt; đối với quần chúng xd&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;không chủ trương can thiệp vào công việc nội bộ của các tôn giáo.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;+ CN Mác - Lênin chỉ ra rằng, muốn thay đổi ý thức xã hội, trước hết cần phải thay đổi bản thân tồn tại xã hội; muốn xóa bỏ ảo tưởng nảy sinh trong tư tưởng con người, phải xóa bỏ nguồn gốc sinh ra ảo tưởng ấy. Điều cần thiết trước hết là phải xác lập được một thế giới hiện thực không có áp bức, bất công, nghèo đói và thất học. . . cũng như những tệ nạn nảy sinh trong xã hội. Đó là một quá trình lâu dài, và không thể thực hiện được nếu tách rời việc cải tạo xã hội cũ, xây dựng xã hội mới.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="16280" width="1202.88" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
