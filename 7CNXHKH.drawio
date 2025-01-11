@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Trang-1" id="LgbN63p3P70RVY04O_IV">
-    <mxGraphModel dx="1488" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -724,11 +724,14 @@
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-174" value="Câu 6.1: Phân tích bản chất của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="90" y="14313" width="410" height="230" as="geometry" />
         </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tdltFZh3Xh9CXgMiuRDY-175" target="6tEGE9rut1zL4w8TgjFP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-175" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="612.5" y="14313" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-179" value="Thế giới quan duy tâm != Chủ nghĩa duy vật -&amp;gt; Hạn chế" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1022" y="14303" width="518" height="180" as="geometry" />
+          <mxGeometry x="1043.5" y="14523" width="518" height="180" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-187" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-180" target="tdltFZh3Xh9CXgMiuRDY-179" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -737,16 +740,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-180" value="Xét về mặt bản chất, tôn giáo là một hiện tượng XH Tiêu cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="612.5" y="14453" width="320" height="100" as="geometry" />
+          <mxGeometry x="611" y="14553" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-186" value="Con người sáng tạo ra thế giới =&amp;gt; Ứng dụng" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1032.5" y="14523" width="507.5" height="160" as="geometry" />
+          <mxGeometry x="1050" y="14720" width="507.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-189" value="Xét ở 1 số góc độ nhất định, tôn giáo vẫn có tính tích cực" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="14653" width="320" height="100" as="geometry" />
+          <mxGeometry x="619" y="14910" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-190" value="Phân biệt tôn giáo, tín ngưỡng, mê tín dị đoan, cuồng tín" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="14823" width="320" height="100" as="geometry" />
+          <mxGeometry x="610" y="15070" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZS9HiiJeUkR3ul2IZ0Ad-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-196" target="tdltFZh3Xh9CXgMiuRDY-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -761,19 +764,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-196" value="Câu 6.3: Phân tích nguồn gốc của tôn giáo" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="80" y="16430" width="410" height="230" as="geometry" />
+          <mxGeometry x="50" y="16650" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-197" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="722.5" y="16320" width="320" height="100" as="geometry" />
+          <mxGeometry x="692.5" y="16540" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-198" value="Nguồn gốc tự nhiên, KT-XH" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="720" y="16470" width="320" height="100" as="geometry" />
+          <mxGeometry x="690" y="16690" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-199" value="Nguồn gốc nhận thức" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="720" y="16630" width="320" height="100" as="geometry" />
+          <mxGeometry x="690" y="16850" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-201" value="Nguồn gốc tâm lý" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="720" y="16780" width="320" height="100" as="geometry" />
+          <mxGeometry x="690" y="17000" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-209" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-206" target="tdltFZh3Xh9CXgMiuRDY-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -785,22 +788,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-206" value="Câu 6.2: Phân tích nguyên tắc tôn giáo từ TKQĐ lên CNXH" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="90" y="15360" width="410" height="230" as="geometry" />
+          <mxGeometry x="80" y="15550" width="410" height="230" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-207" value="Định nghĩa (Theo quan điểm CN Mác Lênin) (1 điểm)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="590" y="15270" width="320" height="100" as="geometry" />
+          <mxGeometry x="580" y="15460" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-208" value="Tôn trọng (Vì sao, thể hiện chỗ nào)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="590" y="15460" width="320" height="100" as="geometry" />
+          <mxGeometry x="580" y="15650" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-211" value="Khắc phục những ảnh hưởng tôn giáo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="590" y="15630" width="320" height="100" as="geometry" />
+          <mxGeometry x="580" y="15820" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-213" value="Phân biệt mặt chính trị và tư tưởng (Là gì, như nào)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="590" y="15790" width="320" height="100" as="geometry" />
+          <mxGeometry x="580" y="15980" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tdltFZh3Xh9CXgMiuRDY-214" value="Quan điểm lsu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="590" y="15940" width="320" height="100" as="geometry" />
+          <mxGeometry x="580" y="16130" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZS9HiiJeUkR3ul2IZ0Ad-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdltFZh3Xh9CXgMiuRDY-215" target="tdltFZh3Xh9CXgMiuRDY-216" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -999,6 +1002,9 @@
         </mxCell>
         <mxCell id="ZS9HiiJeUkR3ul2IZ0Ad-61" value="&lt;span class=&quot;fontstyle0&quot;&gt;- Đó là quyền của các dân tộc tự quyết định lấy vận mệnh của dân tộc mình, quyền tự lựa chọn chế độ chính trị và &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;con đường phát triển&lt;/font&gt; của dân tộc mình.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;- Quyền tự quyết dtộc bao gồm quyền tách ra thành lập một quốc gia dtộc độc lập, đồng thời có quyền tự nguyện liên hiệp với dân tộc khác trên cơ sở bình đẳng. Tuy nhiên, việc thực hiện quyền dân tộc tự quyết phải xuất phát từ thực tiễn - cụ thể và phải đứng vững trên lập trường của giai cấp công nhân, đảm bảo sự thống nhất giữa lợi ích dân tộc và lợi ích của giai cấp công nhân. V.I.Lênin đặc biệt chú trọng quyền tự quyết của các dân tộc bị áp bức, các dân tộc phụ thuộc.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;fontstyle0&quot;&gt;- Quyền tự quyết dtộc không đồng nhất với “quyền” của các tộc người thiểu số trong một quốc gia đa tộc người, nhất là việc phân lập thành quốc gia độc lập. Kiên quyết đấu tranh chống lại mọi âm mưu, thủ đoạn của các thế lực phản động, thù địch lợi dụng chiêu bài “dân tộc tự quyết” để can thiệp vào công việc nội bộ của các nước, hoặc kích động đòi ly khai dân tộc&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" parent="1" vertex="1">
           <mxGeometry x="1655" y="13316" width="1080" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="6tEGE9rut1zL4w8TgjFP-3" value="- Theo quan điểm CN Mác - Lênin, &lt;b&gt;Tôn giáo &lt;/b&gt;là một &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hình thái | ý thức | XH &lt;/font&gt;&lt;font style=&quot;color: rgb(53, 31, 255);&quot;&gt;phản ánh &lt;/font&gt;hư ảo &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;hiện thực khách quan&lt;/font&gt;.&amp;nbsp;&lt;div&gt;+ Thông qua &lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;sự phản ảnh đó&lt;/font&gt;, các LL &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;tự nhiên &lt;/font&gt;và &lt;font style=&quot;color: rgb(255, 21, 21);&quot;&gt;XH &lt;/font&gt;trở thành&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt; siêu nhiên, thần bí&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="14323" width="920" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
