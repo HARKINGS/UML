@@ -891,32 +891,32 @@
         <mxCell id="1nn9EdrxCspoLdxigtPi-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="1nn9EdrxCspoLdxigtPi-62" target="1nn9EdrxCspoLdxigtPi-63" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="1nn9EdrxCspoLdxigtPi-62" target="1nn9EdrxCspoLdxigtPi-65" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1nn9EdrxCspoLdxigtPi-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="1nn9EdrxCspoLdxigtPi-62" target="1nn9EdrxCspoLdxigtPi-64" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" source="1nn9EdrxCspoLdxigtPi-62" target="1nn9EdrxCspoLdxigtPi-66" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1nn9EdrxCspoLdxigtPi-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1nn9EdrxCspoLdxigtPi-62" target="1nn9EdrxCspoLdxigtPi-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-62" value="Morning - Friday" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2330" y="2850" width="170" height="160" as="geometry" />
+        <mxCell id="1nn9EdrxCspoLdxigtPi-62" value="Morning" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2360" y="2750" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-63" value="Morning" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2670" y="2660" width="120" height="80" as="geometry" />
+        <mxCell id="1nn9EdrxCspoLdxigtPi-63" value="Wake up - Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2680" y="2660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-64" value="Noon" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2670" y="2800" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-65" value="Afternoon" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2667" y="2930" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1nn9EdrxCspoLdxigtPi-66" value="Evening" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2667" y="3060" width="120" height="80" as="geometry" />
+        <mxCell id="1nn9EdrxCspoLdxigtPi-64" value="Drying Clothes - Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2680" y="2740" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1nn9EdrxCspoLdxigtPi-67" value="Thank for watching" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2070" y="3355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nn9EdrxCspoLdxigtPi-69" value="Afternoon" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2360" y="2990" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nn9EdrxCspoLdxigtPi-70" value="Evening" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2360" y="3200" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1nn9EdrxCspoLdxigtPi-71" value="Personal Hygene - Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2680" y="2820" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
