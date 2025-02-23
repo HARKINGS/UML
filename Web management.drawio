@@ -29,31 +29,34 @@
           <mxGeometry x="226" y="100" width="404" height="100" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-10" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-11" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-12" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-13" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-14" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-15" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-16" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-17" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-18" value="Hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_5hoK2g6s2Y6-Z-jbHB-19" value="Giao diện tương tác vs Staff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="622" y="245" width="40" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
