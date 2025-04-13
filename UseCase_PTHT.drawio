@@ -735,7 +735,7 @@
           <mxGeometry x="-60" y="3610" width="630" height="920" as="geometry" />
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-21" value="Nhắn tin với nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="4060" width="140" height="110" as="geometry" />
+          <mxGeometry x="-330" y="4050" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="5fkdhm_4OtWebf-05aN5-3" target="5fkdhm_4OtWebf-05aN5-18">
           <mxGeometry relative="1" as="geometry" />
@@ -844,7 +844,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-51" value="Nhận tin nhắn của nhân viên" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="4257" width="125" height="80" as="geometry" />
+          <mxGeometry x="-250" y="4215" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-54" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5fkdhm_4OtWebf-05aN5-51" target="5fkdhm_4OtWebf-05aN5-38">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -896,16 +896,16 @@
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="5fkdhm_4OtWebf-05aN5-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-330" y="4350" as="targetPoint" />
+            <mxPoint x="-340" y="4340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="5fkdhm_4OtWebf-05aN5-63">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-360" y="4240" as="targetPoint" />
+            <mxPoint x="-400" y="4250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-63" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Condition&lt;/b&gt;: Muốn kết thúc nhắn tin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Extension Point&lt;/b&gt;: Nhắn tin với nhân viên&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-339" y="4405" width="236.5" height="60" as="geometry" />
+          <mxGeometry x="-348.25" y="4357" width="236.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5fkdhm_4OtWebf-05aN5-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="5fkdhm_4OtWebf-05aN5-64">
           <mxGeometry relative="1" as="geometry">
