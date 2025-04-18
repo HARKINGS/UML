@@ -1333,7 +1333,7 @@
           <mxGeometry x="-474" y="7580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxhFAPWxBj2Nk4Sea1cD-178" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-633.5" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="-580" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxhFAPWxBj2Nk4Sea1cD-179" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-730" y="150" width="30" height="60" as="geometry" />
