@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="Trang-1" id="uE7v1yjlajYzolNaUygS">
-    <mxGraphModel dx="2318" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2055" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
         <mxCell id="5fkdhm_4OtWebf-05aN5-64" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Condition&lt;/b&gt;: Khách dừng nhắn tin&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Extension Point&lt;/b&gt;: Nhắn tin với khách&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;container=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="4095" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VqGRrNNe6HYwdRw5hrKL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng mua sản phẩm dành cho User&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VqGRrNNe6HYwdRw5hrKL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng mua sản phẩm dành cho User (Ver 2.0)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-804" y="4700" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="VqGRrNNe6HYwdRw5hrKL-2" target="VqGRrNNe6HYwdRw5hrKL-80">
@@ -1065,8 +1065,8 @@
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-125" value="Thổng kê doanh số" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="300" y="5240" width="162.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VqGRrNNe6HYwdRw5hrKL-127" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng tư vấn khách hàng (User -&amp;gt; Staff / Admin)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-788.25" y="5860" width="620" height="40" as="geometry" />
+        <mxCell id="VqGRrNNe6HYwdRw5hrKL-127" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng tư vấn khách hàng (User -&amp;gt; Staff / Admin) (Ver 2.0)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-788.25" y="5860" width="748.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-183" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="VqGRrNNe6HYwdRw5hrKL-128" target="VqGRrNNe6HYwdRw5hrKL-178">
           <mxGeometry relative="1" as="geometry" />
