@@ -1436,15 +1436,6 @@
         <mxCell id="40gP-C5BdJJxiwwBX5SZ-22" value="Đặt lại mật khẩu" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-233.25" y="690" width="213.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40gP-C5BdJJxiwwBX5SZ-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="40gP-C5BdJJxiwwBX5SZ-27" target="40gP-C5BdJJxiwwBX5SZ-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="40gP-C5BdJJxiwwBX5SZ-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="40gP-C5BdJJxiwwBX5SZ-27" target="40gP-C5BdJJxiwwBX5SZ-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="40gP-C5BdJJxiwwBX5SZ-27" value="Hệ thống xác thực" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="197.5" y="480" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="40gP-C5BdJJxiwwBX5SZ-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="40gP-C5BdJJxiwwBX5SZ-28" target="40gP-C5BdJJxiwwBX5SZ-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
