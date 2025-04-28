@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Trang-1" id="5ZuAhYpz-115ECPr_079">
-    <mxGraphModel dx="2880" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3738" dy="2239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,7 +331,7 @@
           <mxGeometry x="230" y="69" width="180" height="95" as="geometry" />
         </mxCell>
         <mxCell id="uPNDVt0pAV8qcbmSIgeI-26" value="" style="group;fontSize=24;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="840" y="-20" width="900" height="580" as="geometry" />
+          <mxGeometry x="890" y="-20" width="900" height="580" as="geometry" />
         </mxCell>
         <mxCell id="9c7Lphumz_TT43BJqh4M-48" value="Repository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=24;container=1;" parent="uPNDVt0pAV8qcbmSIgeI-26" vertex="1">
           <mxGeometry width="899.9999999999999" height="580" as="geometry" />
@@ -640,6 +640,9 @@
         </mxCell>
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-108" value="ChatboxResponse" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-86">
           <mxGeometry x="640" y="670" width="170" height="61.58" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=730;entryDy=330.045;entryPerimeter=0;strokeWidth=4;dashed=1;" edge="1" parent="1" source="9c7Lphumz_TT43BJqh4M-48" target="9c7Lphumz_TT43BJqh4M-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
