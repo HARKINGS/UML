@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Trang-1" id="5ZuAhYpz-115ECPr_079">
-    <mxGraphModel dx="2880" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2646" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -402,8 +402,77 @@
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-1" value="Tổng quan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=120;" vertex="1" parent="1">
           <mxGeometry x="-1565" y="-1115" width="600" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="OhR-fmjUL6oAYMsPHhbM-2" value="Tổng quan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=120;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="2440" width="600" height="160" as="geometry" />
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-2" value="Biểu đồ gói biểu diễn việc mua hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=120;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="2440" width="1960" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-15" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;Application&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="2620" width="1600" height="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-16" value="&lt;span style=&quot;font-size: 64px;&quot;&gt;Infrastructure&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="441" y="2620" width="1600" height="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-17" value="&lt;span style=&quot;font-size: 64px;&quot;&gt;Domain&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2080" y="3120" width="1140" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="2900" width="840" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-19" value="Configuration" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=32;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry width="840" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-20" value="ApplicationInitConfig" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry x="29.99909090909091" y="69" width="254.54545454545453" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-21" value="CustomJwtDecoder" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry x="299.99636363636364" y="69" width="254.54545454545453" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-22" value="SecurityConfig" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry x="299.99636363636364" y="189" width="254.54545454545453" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-23" value="JwtAuthenticationEntryPoint" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry x="29.99909090909091" y="189" width="254.54545454545453" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-24" value="PaymentConfig" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-18">
+          <mxGeometry x="569.9963636363636" y="130" width="254.54545454545453" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="3550" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-26" value="Exception" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=32;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-25">
+          <mxGeometry width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-27" value="AppException" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-25">
+          <mxGeometry x="30" y="69" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-28" value="GlobalHandleException" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-25">
+          <mxGeometry x="95" y="189" width="250" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-29" value="ErrorCode" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-25">
+          <mxGeometry x="230" y="69" width="180" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1200" y="3260" width="780" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-31" value="Repository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;fontSize=32;container=1;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-30">
+          <mxGeometry width="780" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-32" value="AddressRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-31">
+          <mxGeometry x="85.91" y="350" width="254.09" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-34" value="UserRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-31">
+          <mxGeometry x="85.91" y="80" width="254.09" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-35" value="VoucherRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-31">
+          <mxGeometry x="430" y="80" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-37" value="PaymentRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-31">
+          <mxGeometry x="430" y="350" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-33" value="GoodsRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-31">
+          <mxGeometry x="85.91" y="210" width="254.09" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-39" value="InfoBuyRepository" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-30">
+          <mxGeometry x="430" y="210" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
