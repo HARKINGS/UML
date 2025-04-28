@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Trang-1" id="5ZuAhYpz-115ECPr_079">
-    <mxGraphModel dx="3391" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5127" dy="2952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,10 +98,13 @@
           <mxGeometry x="640" y="76.5" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-197" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;JwtAuthenticationEntryPoint&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="9c7Lphumz_TT43BJqh4M-32">
-          <mxGeometry x="90" y="196.5" width="360" height="80" as="geometry" />
+          <mxGeometry x="40" y="196.5" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-198" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;SecurityConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="9c7Lphumz_TT43BJqh4M-32">
-          <mxGeometry x="524" y="196.5" width="256" height="80" as="geometry" />
+          <mxGeometry x="420" y="196.5" width="256" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-510" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;ChatboxConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="9c7Lphumz_TT43BJqh4M-32">
+          <mxGeometry x="690" y="196.5" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6AY3xpXDXlioXL-E7vEY-7" value="" style="group;fontSize=40;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1130" y="-140" width="690" height="660" as="geometry" />
@@ -758,19 +761,10 @@
           <mxGeometry width="959.9999999999999" height="320" as="geometry" />
         </mxCell>
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-422" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;ApplicationInitConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
-          <mxGeometry x="40" y="76.5" width="260" height="80" as="geometry" />
+          <mxGeometry x="85" y="145" width="315" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OhR-fmjUL6oAYMsPHhbM-423" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;CustomJwtDecoder&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
-          <mxGeometry x="341" y="76.5" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OhR-fmjUL6oAYMsPHhbM-424" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;PaymentConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
-          <mxGeometry x="640" y="76.5" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OhR-fmjUL6oAYMsPHhbM-425" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;JwtAuthenticationEntryPoint&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
-          <mxGeometry x="90" y="196.5" width="360" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OhR-fmjUL6oAYMsPHhbM-426" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;SecurityConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
-          <mxGeometry x="524" y="196.5" width="256" height="80" as="geometry" />
+        <mxCell id="OhR-fmjUL6oAYMsPHhbM-511" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-weight: 700;&quot;&gt;ChatboxConfig&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="OhR-fmjUL6oAYMsPHhbM-420">
+          <mxGeometry x="570" y="145" width="305" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OhR-fmjUL6oAYMsPHhbM-427" value="" style="group;fontSize=40;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1025" y="6875" width="690" height="660" as="geometry" />
