@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.2">
   <diagram name="Trang-1" id="uE7v1yjlajYzolNaUygS">
-    <mxGraphModel dx="3810" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2911" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,8 +364,8 @@
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-227" value="Hệ thống quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="349" y="3220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VqGRrNNe6HYwdRw5hrKL-281" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng Quản lý sản phẩm (Thêm sản phẩm) (Ver 2.0)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-796" y="3990" width="730" height="40" as="geometry" />
+        <mxCell id="VqGRrNNe6HYwdRw5hrKL-281" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Chức năng Quản lý sản phẩm (Thêm sản phẩm) (Ver 2.0) (Cần sửa)&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-796" y="3990" width="796" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-282" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Hệ thống quản lý sản phẩm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-413.5" y="4085" width="835" height="1175" as="geometry" />
