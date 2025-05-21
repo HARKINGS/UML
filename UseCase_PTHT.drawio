@@ -97,21 +97,12 @@
           <mxGeometry x="-591.25" y="1820" width="256.75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-95" value="Trực tiếp" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-113.5" y="1831" width="127.5" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VqGRrNNe6HYwdRw5hrKL-96" value="Trả góp" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-118" y="1940" width="129.5" height="100" as="geometry" />
+          <mxGeometry x="-113.5" y="1930" width="127.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-101" value="&amp;lt;&amp;lt;Generalization&amp;gt;&amp;gt;" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startFill=0;startArrow=block;fontSize=11;" parent="1" source="VqGRrNNe6HYwdRw5hrKL-91" target="VqGRrNNe6HYwdRw5hrKL-95" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-76" y="2090" as="sourcePoint" />
             <mxPoint x="84" y="2090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VqGRrNNe6HYwdRw5hrKL-102" value="&amp;lt;&amp;lt;Generalization&amp;gt;&amp;gt;" style="endArrow=none;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;fontSize=11;" parent="1" source="VqGRrNNe6HYwdRw5hrKL-91" target="VqGRrNNe6HYwdRw5hrKL-96" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-73" y="1880" as="sourcePoint" />
-            <mxPoint x="-35" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VqGRrNNe6HYwdRw5hrKL-104" value="Online" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
