@@ -698,11 +698,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHr_JjJRNwYBldAJxbnK-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="UHr_JjJRNwYBldAJxbnK-2" target="UxhFAPWxBj2Nk4Sea1cD-178">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UHr_JjJRNwYBldAJxbnK-2" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="240" width="30" height="60" as="geometry" />
+          <mxGeometry x="-473.75" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UHr_JjJRNwYBldAJxbnK-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UHr_JjJRNwYBldAJxbnK-2" target="UxhFAPWxBj2Nk4Sea1cD-178">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-581" y="225" as="sourcePoint" />
+            <mxPoint x="-450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UHr_JjJRNwYBldAJxbnK-7" value="&amp;lt;&amp;lt;Generalization&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UHr_JjJRNwYBldAJxbnK-6">
+          <mxGeometry x="0.0037" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
