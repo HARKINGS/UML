@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.8">
   <diagram name="Trang-1" id="uE7v1yjlajYzolNaUygS">
-    <mxGraphModel dx="1733" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -480,7 +480,7 @@
         <mxCell id="qCpl5bJecGrjngPeeTWR-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" parent="1" source="UxhFAPWxBj2Nk4Sea1cD-178" target="40gP-C5BdJJxiwwBX5SZ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UxhFAPWxBj2Nk4Sea1cD-178" value="CLIENT" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="UxhFAPWxBj2Nk4Sea1cD-178" value="(abstract)&lt;div&gt;CLIENT&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-356.5" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UxhFAPWxBj2Nk4Sea1cD-179" value="ADMIN" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -698,16 +698,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHr_JjJRNwYBldAJxbnK-2" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="UHr_JjJRNwYBldAJxbnK-2" value="(abstract)&lt;div&gt;Administrator&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-473.75" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UHr_JjJRNwYBldAJxbnK-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UHr_JjJRNwYBldAJxbnK-2" target="UxhFAPWxBj2Nk4Sea1cD-178">
+        <mxCell id="UHr_JjJRNwYBldAJxbnK-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UHr_JjJRNwYBldAJxbnK-2" target="UxhFAPWxBj2Nk4Sea1cD-178" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-581" y="225" as="sourcePoint" />
             <mxPoint x="-450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHr_JjJRNwYBldAJxbnK-7" value="&amp;lt;&amp;lt;Generalization&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UHr_JjJRNwYBldAJxbnK-6">
+        <mxCell id="UHr_JjJRNwYBldAJxbnK-7" value="&amp;lt;&amp;lt;Generalization&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UHr_JjJRNwYBldAJxbnK-6" vertex="1" connectable="0">
           <mxGeometry x="0.0037" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
